@@ -1,6 +1,7 @@
 Flyit
 
 Project Overview
+
 Traveling by air can be an exciting experience, but it can also be quite overwhelming. From booking flights to organizing accommodation and transportation, there are numerous details that need to be managed to ensure a smooth trip.
 
 Introducing our Flight Management Site that will transform the way you book and manage your air travel! With our easy-to-use platform, you can now book flights, check in, and make changes to your travel itinerary all in one place. Our user-friendly interface ensures a seamless experience, allowing you to save time and reduce the stress of travel planning. Whether you're a frequent traveler or just planning a one-time trip, our product is designed to provide you with the convenience and flexibility you need starting from Booking to Arrival at your desired destination thereby making your air travel experience stress-free.
